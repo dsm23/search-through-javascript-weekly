@@ -1,0 +1,15 @@
+{
+    "searchapp": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-searchthroughjavascr-searchapp-231119-authRole",
+            "UnauthRoleArn": "arn:aws:iam::133665562867:role/amplify-searchthroughjavascr-searchapp-231119-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::133665562867:role/amplify-searchthroughjavascr-searchapp-231119-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-searchthroughjavascr-searchapp-231119-deployment",
+            "UnauthRoleName": "amplify-searchthroughjavascr-searchapp-231119-unauthRole",
+            "StackName": "amplify-searchthroughjavascr-searchapp-231119",
+            "StackId": "arn:aws:cloudformation:eu-west-2:133665562867:stack/amplify-searchthroughjavascr-searchapp-231119/0b794fc0-1a10-11ea-a519-02949b77ae4a",
+            "AmplifyAppId": "d1rbu7pb1n9rp5"
+        }
+    }
+}

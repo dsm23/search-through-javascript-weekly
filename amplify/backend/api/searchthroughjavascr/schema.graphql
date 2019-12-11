@@ -1,0 +1,9 @@
+type Article @model {
+  id: ID!
+  headline: String!
+  description: String!
+  hyperlink: String!
+  outlet: String!
+  newsletter: String!
+  issueNumber: Int!
+}

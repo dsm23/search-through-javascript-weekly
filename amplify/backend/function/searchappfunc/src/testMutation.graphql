@@ -1,0 +1,8 @@
+mutation Test {
+  __typename
+  createArticle(input: {
+    headline: "JavaScript, ES6, ES7, ES10.. Where Are We?",
+    description: "A look at the current features within JavaScript, what got rejected, and what native support for ‘modern’ JavaScript features is like. It’s a bit of a mish-mash, but covers a lot of proposals.", hyperlink: "https://medium.com/engineered-publicis-sapient/javascript-es6-es7-es10-where-are-we-8ac044dfd964", outlet: "YANN STEPIENIK", newsletter: "JavaScript Weekly", isseNumber: 466}) {
+    id
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "tableName": "searchdb",
+    "partitionKeyName": "id",
+    "partitionKeyType": "N"
+}
